@@ -2,7 +2,7 @@
 1. Install Renode
 2. Create a project with platformio (this case hifive1 with zephyr)
 3. Add this to ini file
-```
+``` c
 [env:hifive1]
 platform = sifive
 framework = zephyr
